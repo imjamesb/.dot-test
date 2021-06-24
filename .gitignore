@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/_
+!/current
+!/passwordHash
+!/profiles/
+!/profiles/*/
+!/profiles/*/*
+/profiles/*/.*
